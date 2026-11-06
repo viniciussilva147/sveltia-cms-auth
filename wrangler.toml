@@ -2,3 +2,7 @@ name = "sveltia-cms-auth"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
 keep_vars = true
+
+[vars]
+ALLOWED_DOMAINS = "entre-amigos-presentes.d8740361.workers.dev"
+GITHUB_CLIENT_ID = "Ov23liaCJ1Dj1befOrWa"
